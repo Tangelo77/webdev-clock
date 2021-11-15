@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: 5px solid #B5AFAF;
+	font-family: "Lucida Bright", sans-serif;
+}
+
+#clock {
+	height: 10vh;
+	width: 10%;
+	background-color: #D64345;
+  	padding: 5px;
+  	margin: 2px;
+	color: #E0BFC0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 7px;
+}
